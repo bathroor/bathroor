@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @bathroor
-- 👀 I’m interested in VS code
+- 👀 I’m interested in VS
 - 🌱 I’m currently learning TS 
-- 💞️ I’m looking to collaborate on VS
+- 💞️ I’m looking to collaborate on python
+- 
 - 📫 How to reach me go to my ig @ilikemit
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I met a U.S. ambassador
